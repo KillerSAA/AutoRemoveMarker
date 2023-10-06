@@ -6,8 +6,6 @@ goto @AutoRemoveMarker
 :AutoRemoveMarker
                                       // JuniorDjjr's mod ported by KillerSA 
 int blip
-pBlip += 0x1C 
-
 float z = 20.0 
 
 while true 
